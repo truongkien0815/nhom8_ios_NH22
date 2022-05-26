@@ -1,8 +1,8 @@
 //
 //  AppDelegate.swift
-//  FoodManagement2012
+//  PatinentManagement
 //
-//  Created by CNTT on 4/8/22.
+//  Created by CNTT on 5/21/22.
 //  Copyright © 2022 fit.tdc. All rights reserved.
 //
 

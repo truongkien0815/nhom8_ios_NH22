@@ -2,6 +2,6 @@
 <Workspace
    version = "1.0">
    <FileRef
-      location = "self:FoodManagement2012.xcodeproj">
+      location = "self:PatinentManagement.xcodeproj">
    </FileRef>
 </Workspace>
